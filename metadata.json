@@ -1,0 +1,6 @@
+{
+  "name": "AppsBox",
+  "description": "AppsBox is a premium black-and-red futuristic web app marketplace featuring Android, iOS, and Web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
